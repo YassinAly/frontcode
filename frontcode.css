@@ -15,7 +15,6 @@ html, body {
    background-color: #151515;
    background-color: #242526;
    background: linear-gradient(#1e1e1e 40%,  #373737 100%);
-   background-color: red;
    z-index: 1;
    overflow: hidden;
 }
