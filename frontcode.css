@@ -23,7 +23,6 @@ html, body {
     top: 0;
     right: 0;
     z-index: -1;
-    
 }
 .backgroundIMG2 {
     position: absolute;
@@ -33,6 +32,7 @@ html, body {
 }
 .BackgroundContent {
     color: #fff;
+    color: red;
     position: relative;
     top: 20%;
     left: 8%;
