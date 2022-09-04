@@ -97,6 +97,64 @@ html, body {
 }
 
 
+@media(max-width:1270px)
+{
+   .backgroundIMG2 {
+    display: none;
+   }
+}
+@media (max-width:793px)
+{
+  
+
+    .BackgroundContent {
+        color: #fff;
+        position: relative;
+        top: 20%;
+        left: 8%;
+    }
+    
+    .BackgroundContent h1 {
+        font-family: 'Aboreto', cursive;
+        font-size: 36px;
+    }
+    .BackgroundContent h2 {
+        font-size: 38px;
+        font-family: 'Aboreto', cursive;
+        margin-top: 15px;
+    }
+    .BackgroundContent p {
+        max-width: 550px;
+        margin-top: 15px;
+        font-family: 'Aboreto', cursive;
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .BackgroundContent button {
+        margin-top: 25px;
+        padding: 10px 25px;
+        font-size: 14px;
+        font-family: 'Aboreto', cursive;
+        cursor: pointer;
+    }
+    .section1 {
+        width: 100%;
+        height: fit-content;
+        background-color: #242526;
+        margin-top: 3px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .section1 img {
+        
+        margin-top: 40px;
+        width: 35px;
+}
+ 
+}
+
+
 
 @media (max-width:600px)
 {
