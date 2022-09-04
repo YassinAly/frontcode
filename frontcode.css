@@ -175,8 +175,7 @@ html, body {
     }
     .navbar_icon { 
        position: relative;
-       top: 5px;
-       background-color: darkblue; 
+       top: 5px; 
     }
     .backgroundIMG2 {
        /*display: none;*/
