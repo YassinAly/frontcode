@@ -118,10 +118,7 @@ html, body {
         font-family: 'Aboreto', cursive;
         font-size: 36px;
     }
-    .navbar_icon {
-        position: relative;
-        top: 4px;
-    }
+    
     .BackgroundContent h2 {
         font-size: 38px;
         font-family: 'Aboreto', cursive;
